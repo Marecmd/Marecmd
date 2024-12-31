@@ -1,4 +1,5 @@
 # Hello, I'm Aweke
+www.linkedin.com/in/aweke-degu-609684277
 
 <!--
 **Marecmd/Marecmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
