@@ -24,8 +24,8 @@ Add university, certifications here
 
 * ## **[Date 2016 - Date 2019] TestOut PC PRO Certificate
   * One sentence description that describes what you learned at a high level
- 
-  * * ## **[Date 2016 - Date 2019] TestOut PC PRO Certificate
+
+* ## **[Date 2016 - Date 2019] TestOut PC PRO Certificate
   * One sentence description that describes what you learned at a high level
 
 
@@ -55,18 +55,3 @@ Add university, certifications here
 
 * ## [LinkedIn](https://www.linkedin.com/) - Connect with me, and get to know my professional background and experience!
 * ## Portfolio - 
-
-<!--
-**Marecmd/Marecmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
