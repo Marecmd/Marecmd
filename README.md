@@ -13,7 +13,7 @@ Add projects, internships here
 # **Education**
 Add university, certifications here
 
-* ## **[Date 2016 - Date 2019] Associate Degree in ..., Wilmington University** I studied .....
+* ## **[Oct 2022 - Dec 2023] Associate Degree in ..., Wilmington University** I studied Cybersecurity
   * RELEVANT COURSEWORK:
   * class1
   * class2
