@@ -15,7 +15,7 @@ The Detection Lab project was designed to establish a powerful controlled enviro
 
 ### Tools Utilized
 - Leveraged a Security Information and Event Management (SIEM) system for efficient log ingestion and analysis.
-- Used network analysis tools (such as Wireshark) to effectively capture and examine network traffic.
+- Used network analysis tools (such as Wireshark) to capture and examine network traffic effectively.
 - Employed telemetry generation tools to create realistic network traffic and simulate attack scenarios.
 
 ## Steps
